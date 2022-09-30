@@ -1,2 +1,2 @@
 # Java2022Summer
-testing things in Java
+Repetition and testing things in Java.
